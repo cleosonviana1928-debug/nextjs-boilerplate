@@ -26,7 +26,7 @@ export default function Home() {
         boxShadow: '0 0 30px rgba(255,79,163,.4)',
         textAlign: 'center'
       }}>
-        <img src="https://i.imgur.com/kxK7Q9R.png" style={{ width: '100%', borderRadius: 15 }} />
+        <img src="/calcinha-preta.png" style={{ width: '100%', borderRadius: 15 }} />
         <h2 style={{ marginTop: 15 }}>VL001 – Calcinha Rendinha Preta</h2>
         <p>Tamanhos: P • M • G</p>
         <p style={{ fontSize: 24, fontWeight: 'bold', color: '#ff4fa3' }}>R$ 35,00</p>
